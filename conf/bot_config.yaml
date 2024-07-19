@@ -1,5 +1,6 @@
 apod_channel: 971765668221440073
 apod_url: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+enable_package_management: True
 time:
   hour: 12
   minute: 00
